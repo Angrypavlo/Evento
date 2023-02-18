@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "72112713177",
+    "firebase_url": "https://evento-cdf30-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "evento-cdf30",
+    "storage_bucket": "evento-cdf30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72112713177:android:51c39fd66882a7cbda3dc8",
+        "android_client_info": {
+          "package_name": "com.example.evento"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72112713177-uohvasjo6orgi2gjn33qqd8fkukor6cg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.evento",
+            "certificate_hash": "10b73966cc85584884a34fc8278f1bbbfb37622b"
+          }
+        },
+        {
+          "client_id": "72112713177-5uduhmf64sn541lfsl31h2hj9i3k9k95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdJEGqadaHnLQ26aOFUHjuREUHpiogkGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72112713177-5uduhmf64sn541lfsl31h2hj9i3k9k95.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
